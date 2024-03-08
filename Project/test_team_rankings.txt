@@ -1,0 +1,10 @@
+AUSTRALIA                    117
+INDIA                        117
+ENGLAND                      115
+SOUTH AFRICA                 106
+NEW ZEALAND                  95
+PAKISTAN                     89
+WEST INDIES                  81
+SRI LANKA                    79
+BANGLADESH                   51
+ZIMBABWE                     32

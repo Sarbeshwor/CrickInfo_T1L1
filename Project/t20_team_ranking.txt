@@ -1,0 +1,10 @@
+Rank: 1, Team: AUSTRALIA, Matches: 117, Rating: 117
+Rank: 2, Team: INDIA, Matches: 117, Rating: 117
+Rank: 3, Team: ENGLAND, Matches: 115, Rating: 115
+Rank: 4, Team: SOUTH AFRICA, Matches: 106, Rating: 106
+Rank: 5, Team: NEW ZEALAND, Matches: 95, Rating: 95
+Rank: 6, Team: PAKISTAN, Matches: 89, Rating: 89
+Rank: 7, Team: WEST INDIES, Matches: 81, Rating: 81
+Rank: 8, Team: SRI LANKA, Matches: 79, Rating: 79
+Rank: 9, Team: BANGLADESH, Matches: 51, Rating: 51
+Rank: 10, Team: ZIMBABWE, Matches: 32, Rating: 32
